@@ -1,6 +1,6 @@
 {
-  "name": "@frida/os",
-  "description": "Node.js's os module for Frida",
+  "name": "@plawnekjx/os",
+  "description": "Node.js's os module for Plawnekjx",
   "version": "1.0.2",
   "publishConfig": {
     "access": "public"
@@ -12,9 +12,9 @@
     "/index.js"
   ],
   "type": "module",
-  "homepage": "https://github.com/frida/gumjs-os",
+  "homepage": "https://github.com/plawnekjx/gumjs-os",
   "repository": {
     "type": "git",
-    "url": "https://github.com/frida/gumjs-os.git"
+    "url": "https://github.com/plawnekjx/gumjs-os.git"
   }
 }
